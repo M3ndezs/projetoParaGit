@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    border: 1px solid black;
+    width: 100vw;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:lightskyblue;
+}
+ul{
+
+}
+i{
+    list-style: none ;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+li:hover{
+    background-color:navy;
+    padding: 10px;
+}
